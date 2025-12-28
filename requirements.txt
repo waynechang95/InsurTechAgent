@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+pydantic
+faiss-cpu
+python-dotenv
+tiktoken
+vllm
